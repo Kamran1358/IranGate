@@ -7,6 +7,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisitAmazingIran.MVC.UI", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisitAmazingIran.SPA.UI", "VisitAmazingIran.SPA.UI\VisitAmazingIran.SPA.UI.csproj", "{8ABA5D53-B85F-4357-8AE2-50308CE3DB1A}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Docs", "Docs", "{BFC743E5-DA71-4111-9639-010BFDB3423B}"
+	ProjectSection(SolutionItems) = preProject
+		Docs\Sprint_Planning.docx = Docs\Sprint_Planning.docx
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
